@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0b12"/>
+      <stop offset="100%" stop-color="#191929"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff2a85"/>
+      <stop offset="50%" stop-color="#9d4edd"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <rect x="18" y="18" width="476" height="476" rx="98" fill="none" stroke="url(#neon)" stroke-width="14"/>
+  <circle cx="256" cy="240" r="145" fill="url(#neon)" opacity="0.12"/>
+  <path d="M104 282 L144 210 C152 195 168 186 186 186 L326 186 C344 186 360 195 368 210 L408 282 L408 326 C408 336 400 344 390 344 L366 344 L366 366 C366 376 358 384 348 384 L326 384 C316 384 308 376 308 366 L308 344 L204 344 L204 366 C204 376 196 384 186 384 L164 384 C154 384 146 376 146 366 L146 344 L122 344 C112 344 104 336 104 326 Z" fill="none" stroke="#00f0ff" stroke-width="18" stroke-linejoin="round"/>
+  <line x1="112" y1="282" x2="400" y2="282" stroke="#ff2a85" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="164" cy="312" r="18" fill="#00f0ff"/>
+  <circle cx="348" cy="312" r="18" fill="#00f0ff"/>
+  <text x="256" y="138" font-family="sans-serif" font-weight="900" font-size="42" fill="#ffffff" text-anchor="middle" letter-spacing="4">LEONIDA</text>
+</svg>
