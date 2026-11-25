@@ -1,4 +1,4 @@
-const CACHE_NAME = 'leonida-garage-v2';
+const CACHE_NAME = 'leonida-garage-v3';
 const LOCAL_ASSETS = [
   './',
   './index.html',
